@@ -1,6 +1,6 @@
 #  Projeto Yu-Gi-Oh!
 
-Uma aplicação web inspirada no universo de *Yu-Gi-Oh!*, desenvolvida com HTML, CSS e JavaScript. O projeto está em fase inicial, mas já serve como base para uma interface interativa de cartas ou sistema de duelos.
+Uma aplicação web inspirada no universo de *Yu-Gi-Oh!*, desenvolvida com HTML, CSS e JavaScript. O projeto conta com uma interface interativa de cartas ou sistema de duelos.
 
 
 
@@ -16,4 +16,4 @@ Uma aplicação web inspirada no universo de *Yu-Gi-Oh!*, desenvolvida com HTML,
 
 - HTML5
 - CSS3
-- JavaScript (puro ou bibliotecas front-end, se aplicável)
+- JavaScript
